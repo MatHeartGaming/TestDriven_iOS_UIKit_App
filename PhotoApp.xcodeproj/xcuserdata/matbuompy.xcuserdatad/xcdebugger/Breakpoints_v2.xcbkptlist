@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "00CC56A0-D29B-466A-A22B-F0B5F3125E1F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Signup/Presenter/SignupPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "processUserSignup(formModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 8defd46122803ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1208">
+               </Location>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 1c7ffd949ec9946b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PhotoApp.SignupResponseModel&gt;, Swift.Optional&lt;PhotoApp.SignupError&gt;) -&gt; () in PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 8defd461228029a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "2252">
+               </Location>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 1c7ffd949ec9950e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PhotoApp.SignupResponseModel&gt;, Swift.Optional&lt;PhotoApp.SignupError&gt;) -&gt; () in PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 8defd46122802b5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "2668">
+               </Location>
+               <Location
+                  uuid = "CBA88626-A5EA-401C-8298-7687ECFDA2F6 - 1c7ffd949ec99521"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;PhotoApp.SignupResponseModel&gt;, Swift.Optional&lt;PhotoApp.SignupError&gt;) -&gt; () in PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AD6FEF05-D58B-44A8-A933-5BD035DFBD3C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Signup/Presenter/SignupPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "processUserSignup(formModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "AD6FEF05-D58B-44A8-A933-5BD035DFBD3C - 8defd46122803ff"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "1900">
+               </Location>
+               <Location
+                  uuid = "AD6FEF05-D58B-44A8-A933-5BD035DFBD3C - 8defd461228031e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "2316">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32432B84-B650-4130-BD6B-09A6492795DA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Signup/Presenter/SignupPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "processUserSignup(formModel:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "32432B84-B650-4130-BD6B-09A6492795DA - 8defd4612280463"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "1460">
+               </Location>
+               <Location
+                  uuid = "32432B84-B650-4130-BD6B-09A6492795DA - 8defd4612280382"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "PhotoApp.SignupPresenter.processUserSignup(formModel: PhotoApp.SignupFormModel) -&gt; ()"
+                  moduleName = "PhotoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/matbuompy/Dev/iOS/TestDrivenDevelopment/PhotoApp/PhotoApp/Signup/Presenter/SignupPresenter.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "1876">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEDA1B3A-E77B-4E1E-AAC6-DDFE925C3F1C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Signup/Model/SignupFormModelValidator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "isPasswordValid(password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "794EE5A5-BF1B-4628-8F54-41B2B5527AB9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PhotoApp/Signup/Model/SignupFormModelValidator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "isPasswordValid(password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
